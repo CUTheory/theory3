@@ -1,0 +1,33 @@
+<nav id="nav" class="section navigation" role="navigation">
+  <h2>Navigation</h2>
+  <ul>
+    <li><a href="/syllabus/">Syllabus</a></li>
+    <li><a href="/assessment/">Assessment</a></li>
+    <li><a href="/coursework/">Coursework</a></li>
+    <li><a href="/policies/">Policies</a></li>
+    <li><a href="/archives/">Post archive</a></li>
+  </ul>
+</nav>
+
+{% include social_links.html %}
+
+<form action="{{ site.simple_search }}" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
+    <input type="search" name="q" results="0" placeholder="Search" class="search">
+    <input type="submit" value="Search">
+  </fieldset>
+</form>
+
+{% if site.blog_index_asides.size %}
+  {% include_array blog_index_asides %}
+{% else %}
+  {% include_array default_asides %}
+{% endif %}
+
+<section>
+  <h2>Tags</h2>
+  <div style="line-height: 1.2em">
+{% tag_cloud font-size: 80-160%, threshold: 2, style: para [{ &nbsp; }] %}
+  </div>
+</section>

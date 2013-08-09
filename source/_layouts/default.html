@@ -1,0 +1,28 @@
+{% if page.bodyclass.size > 0 %}{% assign bodyclass = page.bodyclass %}{% else %}{% assign bodyclass = '' %}{% endif %}
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}  class="">
+<nav id="skip-links">
+  <ul>
+    <li><a href="#content">Skip to Content</a></li>
+    <li><a href="#nav">Skip to Nav</a></li>
+  </ul>
+</nav>
+<div class="wrapper">
+
+  {% include header.html %}
+
+  <div id="content" class="content" role="main">
+    {{ content | expand_urls: root_url }}
+  </div>
+
+  <aside class="sidebar" role="complementary">
+    <nav role="navigation">{% include navigation.html %}</nav>
+  </aside>
+
+  {% include footer.html %}
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="/js/code-highlighter.js"></script>
+<script src="/js/common.js"></script>
+</body>
+</html>

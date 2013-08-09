@@ -1,0 +1,4 @@
+<article class="entry excerpt">
+  {% capture category %}{{ post.categories | size }}{% endcapture %}
+  <p class="entry-title"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a> (<time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}</time>)</p>
+</article>
