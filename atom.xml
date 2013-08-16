@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Music Theory III]]></title>
+  <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
+  <link href="http://CUTheory.github.com/theory3/"/>
+  <updated>2013-08-16T14:59:24-06:00</updated>
+  <id>http://CUTheory.github.com/theory3/</id>
+  <author>
+    <name><![CDATA[Kris Shaffer]]></name>
+    <email><![CDATA[kris.shaffer@colorado.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/08/welcome/"/>
+    <updated>2013-08-08T20:09:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/08/welcome</id>
+    <content type="html"><![CDATA[<p>This is the website for Semester 3 Theory at CU–Boulder&#8217;s College of Music, Section 1 with Kris Shaffer. More info coming soon.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://CUTheory.github.com/theory3/sitemap.xml 
