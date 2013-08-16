@@ -27,6 +27,12 @@ Because your grade will be determined by self-evaluations, there is a good bit o
 
 Unit deadlines will be announced well in advance, usually in the middle of a unit of study. These deadlines are firm. Only work completed before a unit deadline will be accepted as evidence in favor of the grade you propose in your self-evaluations. (See course policies document for exceptions.)
 
+Perliminary deadline schedule (subject to change):
+
+- Unit I: Meeting 9 (Sept. 25)  
+- Unit II: Meeting 17 (Oct. 23)  
+- Unit III: Meeting 29 (Dec. 11) or Finals Week
+
 # Final exam #
 
 Details will come later in the semester. 

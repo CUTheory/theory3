@@ -16,8 +16,7 @@ Course hashtag: #musc2101
 Meeting time: MW 9:00am–9:50am  
 Meeting location: MUS C191  
 Professor: Kris Shaffer, Ph.D.  
-Course website:   
-Online course resources:    
+Course website: [cutheory.github.io/theory3/](http://cutheory.github.io/theory3/)  
 
 # Concepts and skills #
 
