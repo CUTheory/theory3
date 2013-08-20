@@ -9,7 +9,7 @@ footer: true
 
 # Summary of course policies #
 
-In general, be professional, take responsibility over your own learning and musical development, and follow all university policies, and you will be fine. See below for some specific policies (most of which are *university* policies, not instructor policies).
+In general, be professional, take responsibility for your own learning and musical development, and follow all university policies, and you will be fine. See below for some specific policies (most of which are *university* policies, not instructor policies).
 
 ## Attendance ##
 

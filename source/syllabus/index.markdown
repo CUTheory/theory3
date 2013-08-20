@@ -23,7 +23,8 @@ Course website: [cutheory.github.io/theory3/](http://cutheory.github.io/theory3/
 The goals for this course are for students to assimilate the following concepts and apply them in the composition and/or analysis of classical music in particular styles. The concepts we will address are:
 
 - Harmony  
-- Voice-leading  
+- Strict voice-leading (two-part)  
+- Strict keyboard-style voice-leading  
 - Form  
 - Musical style  
 - Relationships between harmony, voice-leading, form, and style    

@@ -21,13 +21,13 @@ Over the course of each unit, a significant amount of activity in and out of cla
 
 # Unit projects #
 
-Because your grade will be determined by self-evaluations, there is a good bit of flexibility for how you demonstrate your understanding. However, to show deep understanding of the material, some sort of project beyond in-class work and quizzes will likely be necessary. For early voice-leading units, the most straightforward option would be a portfolio of contributions to the class primer project and/or short compositional exercises. For the final German Art Song unit, the most straightforward types of projects would be an analytical paper of one or more pieces in the relevant style and utilizing many of the structures covered in the unit, or a composition in the style of the unit that includes many of the structures covered. However, there are many other options, such as curation projects, blogs, websites, as well as larger collaborative projects. You are free to choose a project that will demonstrate what you need to demonstrate. If you have any doubt, clear it with me well before the deadline.
+Because your grade will be determined by self-evaluations, there is a good bit of flexibility for how you demonstrate your understanding. However, to show deep understanding of the material, some sort of project beyond in-class work and quizzes will likely be necessary. In some cases, specific project requirements or guidelines will be provided. In other cases, you will be free to choose a project that will demonstrate what you need to demonstrate. If you have any doubt, clear your project idea with me well before the deadline.
 
 # Deadlines #
 
 Unit deadlines will be announced well in advance, usually in the middle of a unit of study. These deadlines are firm. Only work completed before a unit deadline will be accepted as evidence in favor of the grade you propose in your self-evaluations. (See course policies document for exceptions.)
 
-Perliminary deadline schedule (subject to change):
+Preliminary deadline schedule (subject to change):
 
 - Unit I: Meeting 9 (Sept. 25)  
 - Unit II: Meeting 17 (Oct. 23)  
