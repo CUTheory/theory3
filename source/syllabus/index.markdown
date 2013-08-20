@@ -54,12 +54,15 @@ For more detail on expectations for students in regards to these conceptual area
 
 ### Required ###
 
-- A semester account for [Learning Catalytics](http://www.learningcatalytics.com).  
 - A web-enabled device that can be brought to each class meeting (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
-- A free account to [Twitter](http://twitter.com).  
-- A free account to [GitHub](http://github.com).  
+- A free account to [Piazza](http://piazza.com).  
 - An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - A free Google account (for maintaining self-evaluations on Google Drive)—if you already have a Gmail address, you already have this. (Adventurous students may alternatively use a free, private student account on GitHub for their self-evaluations.)  
+- A semester account for [Learning Catalytics](http://www.learningcatalytics.com).  
+
+The following *may* be required later in the semester:
+
+- A free account to [GitHub](http://github.com).  
 
 All other required class materials will be posted or linked to on the course website.
 
