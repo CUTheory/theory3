@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-08-20T10:39:39-06:00</updated>
+  <updated>2013-08-20T11:10:48-06:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Piazza]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/08/piazza/"/>
+    <updated>2013-08-20T10:53:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/08/piazza</id>
+    <content type="html"><![CDATA[<p>This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions about course materials directly to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email <a href="mailto:team@piazza.com">team@piazza.com</a>.</p>
+
+<p>Of course, matters of a private nature should <em>not</em> be addressed on Piazza. Please email me about private concerns, or better yet, come by my office so we can discuss them in person.</p>
+
+<p>Find our class Piazza page at: <a href="https://piazza.com/colorado/fall2013/musc2101sec1/home">https://piazza.com/colorado/fall2013/musc2101sec1/home</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
