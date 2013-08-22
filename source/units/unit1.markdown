@@ -40,7 +40,7 @@ Unit I will address the following concepts and skills provided on the syllabus: 
 
 Students will be assessed *individually*, according to each student's [self-evaluation]({{ root_url }}/assessment/). In that self-evaluation, you should make the case, citing evidence from class activity, that you have mastered the material for each concept/skill or are on the way to doing so by the deadline. For the *strict voice-leading (two-part)* conceptual category, you should cite evidence from your contributions to the group portfolio, your activities in class, and your out-of-class activities (such as online quizzes, Piazza discussions, etc.). Be sure to keep records of anything not automatically recorded (in other words, things done on paper or in-person, rather than on Piazza, Learning Catalytics, or Google Drive). If you have any questions about this process, please consult me early. 
 
-Keep in mind that though mastery of the musical material covered in Unit I will be essential to progressing through the remaineder of the semester, very little of the final grade will be determined at the end of Unit I. Though there is very little wiggle room musically, there will be plenty of wiggle room in terms of final grades after the first unit is over.
+Keep in mind that though mastery of the musical material covered in Unit I will be essential to progressing through the remainder of the semester, very little of the final grade will be determined at the end of Unit I. Though there is very little wiggle room musically, there will be plenty of wiggle room in terms of final grades after the first unit is over.
 
 ## Resources ##
 
