@@ -21,7 +21,7 @@ Assessment will be in reference to written self evaluations with supporting port
 
 At the end of each unit, the student will assign a letter grade for each criterion (no pluses or minuses), and provide a written argument of no longer than a paragraph demonstrating the reason that the chosen grade is appropriate. This argument can and should make reference to in-class work, projects, quizzes, exams, or habits demonstrated by the student during the unit.
 
-At the end of the semester, the student will assign a whole-semester letter grade (no pluses or minuses) for each criterion, and provide a written argument of no longer than a paragraph demonstrating the reason that the chosen grade is appropriate. This argument can and should make reference to in-class work, projects, quizzes, exams, or habits demonstrated by the student during each respective unit.
+At the end of the semester, the student will assign a whole-semester letter grade (no pluses or minuses) for each criterion, and provide a written argument of no longer than a paragraph demonstrating the reason that the chosen grade is appropriate. This argument can and should make reference to in-class work, projects, quizzes, exams, or habits demonstrated by the student during each respective unit. *The instructor will have the final say on these grades; however, if you make a strong case, you will receive the grade you assign yourself.*
 
 A student's overall grade will be the median grade of all assessment criteria, or one letter grade higher than the lowest criterion grade—whichever is lower.
 
