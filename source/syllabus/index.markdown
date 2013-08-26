@@ -46,7 +46,7 @@ In order to accomplish this, the course will be divided into three units, follow
 - Strict keyboard-style composition  
 - The German art song (Lied)
 
-We will engage all conceptual areas in each of the three units (with the exception of *relationships between music and text*, which will be specific to the study of Lieder).
+Note that several of the concepts and skills will be engaged in multiple units of study.
 
 For more detail on expectations for students in regards to these conceptual areas, see the course assessment guide.
 
