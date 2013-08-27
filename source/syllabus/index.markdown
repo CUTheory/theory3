@@ -15,7 +15,9 @@ Semester: Fall 2013
 Course hashtag: #musc2101  
 Meeting time: MW 9:00am–9:50am  
 Meeting location: MUS C191  
-Professor: Kris Shaffer, Ph.D.  
+Instructor: [Kris Shaffer, Ph.D.](http://twitter.com/krisshaffer)  
+Office: MUS N138  
+Office hours: MW, 1–3pm  
 Course website: [cutheory.github.io/theory3/](http://cutheory.github.io/theory3/)  
 
 # Concepts and skills #
