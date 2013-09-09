@@ -11,6 +11,7 @@ Before 8am on Tuesday, Sept. 10, please do the following:
 - Review the discussion on second-species counterpoint from Monday's class on Piazza.  
 - Read the resource on [Composing a second-species counterpoint](http://kris.shaffermusic.com/musicianship/secondSpecies.html), and watch the video at the end.  
 - Log on to [Learning Catalytics](http://learningcatalytics.com), use session ID 76824, and take the short quiz.  
+- For each work group: Create a Google Drive folder with *all students' last names* in its title. Share it with everyone in the group, and with me. Upload your two best first-species exercises thus far for me to take a look at and give you feedback.
 
 Before Wednesday's class, please review any feedback I provide you individually via Learning Catalytics or collectively on the course website after the quizzes have been completed.
 
