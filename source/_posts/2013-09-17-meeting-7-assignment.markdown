@@ -9,7 +9,7 @@ categories:
 *By 8am on Thursday, Sept. 19:*
 
 - Review the discussion on third-species counterpoint from Monday's class on Piazza.  
-- Read the resource on [Composing a third-species counterpoint](http://kris.shaffermusic.com/musicianship/thirdSpecies.html), and watch the video at the end.  
+- Read the resource on [Composing a third-species counterpoint](http://kris.shaffermusic.com/musicianship/thirdSpecies.html).  
 - Bring your model third-species examples back to class on Wednesday, labeling two examples of each of the following techniques described in the reading: 
 - - dissonant passing tone  
 - - dissonant neighbor tone  
