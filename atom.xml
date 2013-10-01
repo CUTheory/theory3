@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-10-01T10:49:42-06:00</updated>
+  <updated>2013-10-01T11:26:18-06:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meeting 11 assignment]]></title>
     <link href="http://CUTheory.github.com/theory3/2013/10/meeting-11-assignment/"/>
-    <updated>2013-10-01T10:25:00-06:00</updated>
+    <updated>2013-10-01T12:25:00-06:00</updated>
     <id>http://CUTheory.github.com/theory3/2013/10/meeting-11-assignment</id>
     <content type="html"><![CDATA[<p>For <em>Monday, Oct. 7</em>, do the following:</p>
 
@@ -26,6 +26,39 @@
 <li>Read the Unit II guide (link to the right) and come to class on Monday with any questions about it.</li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Harmonic syntax quiz response]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/10/harmonic-syntax-quiz-response/"/>
+    <updated>2013-10-01T11:08:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/10/harmonic-syntax-quiz-response</id>
+    <content type="html"><![CDATA[<p>Below are some responses to common misconceptions on the quiz. We will discuss some of this in class on Wednesday.</p>
+
+<h2>Cadence definitions</h2>
+
+<p>Some of you are confused as to the definition of <em>perfect authentic cadence</em> and <em>imperfect authentic cadence</em>. This may be because of an error in the Clendinning/Marvin text you used last year. Those authors include inverted chords in the category of IAC. However, historical theorists and composers did not consider things like V–I6 or V6–I to be cadences, nor do most theorists today who are leading the study of musical form. Both perfect and imperfect authentic cadences <em>always</em> have <em>sol</em>–<em>do</em> as their bass, and the functional bass for both is always <strong>D5 T1</strong>. The only difference is in the melody.</p>
+
+<h2>5) Why do you think a <em>perfect authentic cadence</em> is called &#8220;perfect&#8221; and an <em>imperfect authentic cadence</em> is called &#8220;imperfect&#8221;?</h2>
+
+<p>This is the same as species counterpoint. While both, by definition of a cadence, can end a phrase, only a perfect cadence will end, or complete, a typical classical work. (Remember that &#8220;perfectus&#8221; means &#8220;complete.&#8221;) This is because is has more of a closed or final sound than the IAC. (Though, again, keep in mind that both have the same bass pattern.)</p>
+
+<h2>7) Explain prolongation as best you can in a single sentence.</h2>
+
+<p>Prolongation extends a harmonic function by means of embellishment (either a voice-leading embellishment, a &#8220;contrapuntal chord,&#8221; or a subsidiary harmonic progression), allowing more elaborate harmonic phrases while still maintaining a <em>single</em> <strong>T S D T</strong> progression.</p>
+
+<h2>10) Attempt an <em>interpreted</em> functional bass analysis of the following progression:</h2>
+
+<blockquote><p><strong>T1 D7 T1 D2 T3 S4 D5 T1</strong></p></blockquote>
+
+<p>Answer: <strong>T(1 D7n 1 D2p 3) S4 D5 T1</strong></p>
+
+<p>Tonic function (the most common function to be prolonged) is prolonged by two passing chords: <strong>D7</strong> and <strong>D2</strong>. Since the <em>ti</em> bass note of <strong>D7</strong> functions as a neighbor to the <em>do</em> of the <strong>T1</strong> chords, <strong>D7</strong> is a neighbor chord (<strong>D7n</strong>). Since the <em>re</em> of the <strong>D2</strong> chord functions as a passing tone between the <em>do</em> and <em>mi</em> of the <strong>T1</strong> and <strong>T3</strong> chords, the <strong>D2</strong> chord is a passing chord (<strong>D2p</strong>).</p>
+
+<p>Two general rules of thumb come in to play here: <strong>S4 D5 T1</strong> at the end of a phrase is <em>always</em> the cadential progression, and prefer to analyze a tonic prolongation as long as makes musical sense.</p>
+
+<p>Don&#8217;t sweat this one too much. It&#8217;s all very abstract still, with no real music in front of you. I mainly wanted to get you thinking about this before we see real musical examples in the near future. It will make a lot more sense once you get more familiar with it and start connecting it to musical form and analysis, but only if you have some vague notion of the concepts first.</p>
 ]]></content>
   </entry>
   
