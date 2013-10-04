@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-10-01T11:50:43-06:00</updated>
+  <updated>2013-10-04T13:50:14-06:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Prep for Oct. 9]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/10/meeting-12-assignment/"/>
+    <updated>2013-10-04T13:45:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/10/meeting-12-assignment</id>
+    <content type="html"><![CDATA[<p>Before class on Oct. 9, please do the following:</p>
+
+<ul>
+<li>Read the new resource on <a href="http://kris.shaffermusic.com/harmonicAnalysis.html">Harmonic analysis</a>, and write down any questions you have about it and bring them to class.</li>
+<li>Review any functional-bass materials that have caused you confusion (readngs and Learning Catalytics quizzes or class activities).</li>
+<li>Bring a device that will allow you to work in Google Drive (a laptop, or a tablet <em>with the Google Drive app installed</em>). We will work there instead of Piazza on Wednesday for our analysis activity.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting 11 assignment]]></title>
@@ -407,15 +423,6 @@ All quizzes in this course are <em>open-note</em>. You are also <em>encouraged</
 <p>Of course, matters of a private nature should <em>not</em> be addressed on Piazza. Please email me about private concerns, or better yet, come by my office so we can discuss them in person.</p>
 
 <p>Find our class Piazza page at: <a href="https://piazza.com/colorado/fall2013/musc2101001/home">https://piazza.com/colorado/fall2013/musc2101001/home</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://CUTheory.github.com/theory3/2013/08/welcome/"/>
-    <updated>2013-08-08T20:09:00-06:00</updated>
-    <id>http://CUTheory.github.com/theory3/2013/08/welcome</id>
-    <content type="html"><![CDATA[<p>This is the website for Semester 3 Theory at CU–Boulder&#8217;s College of Music, Section 1 with Kris Shaffer. More info coming soon.</p>
 ]]></content>
   </entry>
   
