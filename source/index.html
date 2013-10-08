@@ -4,6 +4,7 @@ layout: default
 
 <div class="blog-index">
   {% assign index = true %}
+  {% include announce.html %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}
     {% include article.html %}
