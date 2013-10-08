@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-10-04T13:50:14-06:00</updated>
+  <updated>2013-10-08T11:43:23-06:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Assignment for Oct. 14]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/10/assignment-for-oct-14/"/>
+    <updated>2013-10-08T11:28:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/10/assignment-for-oct-14</id>
+    <content type="html"><![CDATA[<p>Form a group of 2–4 students that will work together on the Unit II portfolio. Using the template provided during class (available in <a href="https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cXzNiQlpRM0o5UXc&amp;usp=sharing">Google Drive</a>), create a document where you will build your primer on keyboard-style voice leading.</p>
+
+<p>Using the <a href="http://CUTheory.github.com/theory3/media/modelBassoContinuo-withFuncBass.pdf">model basso-continuo style voice-leading examples</a> distributed in class, work with that group to discern the principles according to which those examples are realized from the figured bass line. Focus on two main issues: <em>chord voicing</em> (what notes go into the chord and which are doubled/left out) and <em>motion</em> (how do individual pitches in one chord progress to the pitches in the next chord).</p>
+
+<p>For Monday, try to come up with <em>five</em> or less principles that cover all situations relating to <em>chord voicing</em>, and <em>three</em> or less principles that cover all sitations relating to <em>motion</em>. Each principle should be expressed in clear, grammatically correct sentences in your Google document, not bullet points.</p>
+
+<p>Do as much as you can within your group, but feel free to consult other groups on Piazza if you get stuck.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Prep for Oct. 9]]></title>
@@ -410,19 +425,6 @@ All quizzes in this course are <em>open-note</em>. You are also <em>encouraged</
 <p>Also, please bring a web-enabled device to class, such as a smartphone, tablet, or laptop.</p>
 
 <p>I look forward to meeting all of you on Monday!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Piazza]]></title>
-    <link href="http://CUTheory.github.com/theory3/2013/08/piazza/"/>
-    <updated>2013-08-20T10:53:00-06:00</updated>
-    <id>http://CUTheory.github.com/theory3/2013/08/piazza</id>
-    <content type="html"><![CDATA[<p>This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions about course materials directly to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email <a href="mailto:team@piazza.com">team@piazza.com</a>.</p>
-
-<p>Of course, matters of a private nature should <em>not</em> be addressed on Piazza. Please email me about private concerns, or better yet, come by my office so we can discuss them in person.</p>
-
-<p>Find our class Piazza page at: <a href="https://piazza.com/colorado/fall2013/musc2101001/home">https://piazza.com/colorado/fall2013/musc2101001/home</a>.</p>
 ]]></content>
   </entry>
   
