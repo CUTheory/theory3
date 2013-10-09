@@ -13,3 +13,7 @@ Using the [model basso-continuo style voice-leading examples]({{ root_url }}/med
 For Monday, try to come up with *five* or less principles that cover all situations relating to *chord voicing*, and *three* or less principles that cover all sitations relating to *motion*. Each principle should be expressed in clear, grammatically correct sentences in your Google document, not bullet points.
 
 Do as much as you can within your group, but feel free to consult other groups on Piazza if you get stuck.
+
+Also, please watch the following video (approx. 15 min) as you continue to solidify your understanding of harmonic functional analysis. In it, I walk through the excerpt from Haydn XVI:35 that we analyzed in class on Monday.
+
+<iframe src="http://player.vimeo.com/video/76469959" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/76469959">Functional analysis of Haydn XVI:35, I., mm. 1–8</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
