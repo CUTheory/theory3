@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-10-10T11:53:24-06:00</updated>
+  <updated>2013-10-15T10:02:54-06:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Asst. for Fri., Oct. 18]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/10/asst-for-fri/"/>
+    <updated>2013-10-15T09:54:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/10/asst-for-fri</id>
+    <content type="html"><![CDATA[<p>Before 8am on Friday, work with your group (in person, or online) to clean up your primer in Google Drive. Your primer thus far should include:</p>
+
+<ul>
+<li>a concise set of principles for chord voicing in basso continuo style</li>
+<li>a consise set of principles for motion (of notes from one chord to the next) in basso continuo style</li>
+<li>a concise explanation of the differences between chord voicing in basso continuo style and melodic style</li>
+<li>a concise explanation of the differences between principles of motion in basso continuo style and melodic style</li>
+</ul>
+
+
+<p>I will announce on Friday, after reviewing these, what you should bring to class on Monday (probably staff paper and/or a device for Google Drive or Learning Catalytics). There will be no additional assignment, but I may post some resources that would be helpful for review over the weekend.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Prep &amp; assignment for Oct. 16]]></title>
@@ -417,17 +436,6 @@ All quizzes in this course are <em>open-note</em>. You are also <em>encouraged</
 <p>A 1-minute video domonstrating uploading and sharing files on Google Drive can be found <a href="http://kris.shaffermusic.com/musicianship/GDrive.html">here</a>. If you have any difficulties, please make use of Piazza to ask questions of me and/or your classmates. CU officially supports GDrive, so the student help desk should also be able to help.</p>
 
 <p>If you have any questions, please ask them on Piazza.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting 1 assignment]]></title>
-    <link href="http://CUTheory.github.com/theory3/2013/08/meeting-1-assignment/"/>
-    <updated>2013-08-24T19:47:00-06:00</updated>
-    <id>http://CUTheory.github.com/theory3/2013/08/meeting-1-assignment</id>
-    <content type="html"><![CDATA[<p>Before our next meeting (Wednesday, Aug. 28), sign up for <a href="http://www.learningcatalytics.com">Learning Catalytics</a> and <a href="http://www.piazza.com">Piazza</a> (if you didn&#8217;t already). Also, read the following resources: <a href="http://kris.shaffermusic.com/musicianship/speciesIntro.html">introduction to strict voice-leading</a> and <a href="http://kris.shaffermusic.com/musicianship/cantusFirmus.html">composing a <em>cantus firmus</em></a>.</p>
-
-<p>Please make use of Piazza, rather than emailing me directly, if you have any questions about the reading, the course, the syllabus, the policies, the homework, or the technology.</p>
 ]]></content>
   </entry>
   
