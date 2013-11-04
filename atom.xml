@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-10-24T10:46:43-06:00</updated>
+  <updated>2013-11-04T07:49:56-07:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unit II primer follow-up]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/10/unit-ii-primer-follow-up/"/>
+    <updated>2013-10-29T10:57:00-06:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/10/unit-ii-primer-follow-up</id>
+    <content type="html"><![CDATA[<p>Now that your groups have completed your voice-leading primers, it is time for you to read <em>my</em> primer. It was previously hidden from the <a href="http://kris.shaffermusic.com/musicianship">Resources</a> site, but is now back up. Before Wednesday&#8217;s class (Nov. 6), read/watch the following:</p>
+
+<ol>
+<li><a href="http://kris.shaffermusic.com/musicianship/strictKeyboardStyle.html">Strict keyboard-style voice-leading – Basso continuo</a></li>
+<li><a href="http://kris.shaffermusic.com/musicianship/melodicKB.html">Realizing a figured bass line in melodic keyboard style</a></li>
+<li><a href="http://kris.shaffermusic.com/musicianship/KBVLschemata.html">Keyboard-style voice-leading schemata</a></li>
+</ol>
+
+
+<p>Before Monday&#8217;s class (Nov. 11), every <em>individual</em> student should compare his/her group&#8217;s primer to resources 1 &amp; 2 above, and for every difference between your primer and mine, write either 1) an explanation of why your primer is right and mine is wrong, or 2) an explanation of the concept I explained that you omitted or explained incorrectly. For each difference, your explanation should be as concise as possible (just a couple sentences; no more than a paragraph).</p>
+
+<p>Write these explanations together in a Google Document and share it with me by 8am on Monday, Nov. 11.</p>
+
+<p>Since this assignment involves self-assessment (what did we get right, wrong, miss altogether?), this will take the place of self-assessment for this unit&#8217;s material. If between your group&#8217;s primer and this assignment you clearly and concisely explain all the major concepts in keyboard-style voice-leading, you will receive an A for <em>strict keyboard-style voice-leading</em>. Thus, there is no reason the entire class shouldn&#8217;t receive an A for that category.</p>
+
+<p>As always, make use of my office hours this week (Monday: 2–3pm; Wednesday: 1–3pm) and Piazza if there is anything you don&#8217;t understand in the resources I provided you.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Week 10 &amp; Unit II primers]]></title>
@@ -365,30 +389,6 @@ All quizzes in this course are <em>open-note</em>. You are also <em>encouraged</
 <p>As a number of you noted, the whole note in the penultimate bar emphasizes the coming cadence. By breaking the pattern of half notes, it introduces a degree of tension that resolves with the final cadence, and by slowing down the rhythm of the counterpoint, it signals an ending is coming.</p>
 
 <p>The whole note, however, has nothing to do with avoiding dissonance or achieving stepwise, contrary motion. All of those things can be accomplished by two half notes, as well, with a properly crafted line. In fact, as you will find in your composing, your decision whether to use a whole note or two half notes will depend largely on the intervals formed as your cantus firmus and counterpoint approach the penultimate bar. If one rhythm makes better melodic and harmonic intervals than the other, use it. If they are equally good intervallically, use a whole note.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting 4 assignment]]></title>
-    <link href="http://CUTheory.github.com/theory3/2013/09/meeting-4-assignment/"/>
-    <updated>2013-09-06T10:24:00-06:00</updated>
-    <id>http://CUTheory.github.com/theory3/2013/09/meeting-4-assignment</id>
-    <content type="html"><![CDATA[<p>Before 8am on Tuesday, Sept. 10, please do the following:</p>
-
-<ul>
-<li>Review the discussion on second-species counterpoint from Monday&#8217;s class on Piazza.</li>
-<li>Read the resource on <a href="http://kris.shaffermusic.com/musicianship/secondSpecies.html">Composing a second-species counterpoint</a>, and watch the video at the end.</li>
-<li>Log on to <a href="http://learningcatalytics.com">Learning Catalytics</a>, use session ID 76824, and take the short quiz.</li>
-<li>For each work group: Create a Google Drive folder with <em>all students&#8217; last names</em> in its title. Share it with everyone in the group, and with me. Upload your two best first-species exercises thus far for me to take a look at and give you feedback.</li>
-</ul>
-
-
-<p>Before Wednesday&#8217;s class, please review any feedback I provide you individually via Learning Catalytics or collectively on the course website after the quizzes have been completed.</p>
-
-<p><em>Notes on the quiz:</em><br/>
-All quizzes in this course are <em>open-note</em>. You are also <em>encouraged</em> to talk to each other, in person or on Piazza, as you work on this quiz. However, be sure that the short-answer responses are 1) short (!), and 2) in your own words.</p>
-
-<p>Be sure to bring manuscript paper and a pencil, or a laptop/tablet with music notation software, to class on Wednesday. (I highly recommend <a href="http://www.musescore.org">MuseScore</a>, <a href="http://www.noteflight.com">NoteFlight</a>, and <a href="http://www.lilypond.org">Lilypond</a>—all free, all with different strengths.)</p>
 ]]></content>
   </entry>
   
