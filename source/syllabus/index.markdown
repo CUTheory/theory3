@@ -24,12 +24,9 @@ Course website: [cutheory.github.io/theory3/](http://cutheory.github.io/theory3/
 
 The goals for this course are for students to assimilate the following concepts and apply them in the composition and/or analysis of classical music in particular styles. The concepts we will address are:
 
-- Harmony  
 - Strict voice-leading (two-part)  
 - Strict keyboard-style voice-leading  
-- Form  
-- Musical style  
-- Relationships between harmony, voice-leading, form, and style    
+- Harmony  
 - Relationships between music and text  
 - Professionalism  
 - Liberal education values
@@ -38,7 +35,7 @@ For these topics, Semester 3 Theory is the end of the study of tonal Western art
 
 # Topics of study #
 
-The first three concepts—*harmony*, *voice-leading*, and *form*—have already been covered substantially in the first two semesters of music theory. The key to this course is what follows in the concept list. Basic musical features like harmony, voice-leading, and form are not uniform across all of Western music. Each musical style (and sub-style) has its own set of normative practices. These norms encompass differences in the way harmony, voice-leading, and form play out in each genre, as well as the ways in which they relate to each other. Thus a full understanding of compositional practice in Western music includes an understanding of musical style, and the diversity of "normative" practices within the broad category of Western art music.
+The first three concepts—*harmony* and *voice-leading*—have already been covered substantially in the first two semesters of music theory. The key to this course is what follows in the concept list. Basic musical features like harmony, voice-leading, and form are not uniform across all of Western music. Each musical style (and sub-style) has its own set of normative practices. These norms encompass differences in the way harmony, voice-leading, and form play out in each genre, as well as the ways in which they relate to each other. Thus a full understanding of compositional practice in Western music includes an understanding of musical style, and the diversity of "normative" practices within the broad category of Western art music.
 
 With that in mind, this course will focus intentionally on the normative harmonic, contrapuntal, and formal structures of multiple styles, with a view towards understanding both the *general* traits that underly most or all of Western tonal music, and the *specific* traits that are typical of one or more specific styles of Western tonal music. (N.B.: This is the goal you should have in mind when constructing your self-evaluations, and against which I will consider your evaluations in determining final grades.)
 
