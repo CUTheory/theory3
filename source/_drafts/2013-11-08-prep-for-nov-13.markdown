@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Prep for Nov. 13"
+date: 2013-11-08 11:16
+comments: true
+categories: 
+---
+
+Before 9am on Tuesday, Nov. 12, please do the following:
+
+- Complete the thoroughbass reduction of "Die liebe Farbe" from [*Die schöne Müllerin*]({{ root_url }}/media/Schubert-DSMtext.pdf) begun in class on Monday. (You can do this with a group.)  
+- Complete your *uninterpreted* functional bass analysis (no parentheses or brackets) and label all cadences. (You can do this with a group.)  
+- *Attempt* an interpreted analysis for the rest of the song. (You can do this with a group.)  
+- Read the [text and translation]({{ root_url }}/media/Schubert-DSMtext.pdf) of the song.
+- Log into [Learning Catalytics](http://learningcatalytics.com) and take the (very brief) quiz with session ID 524182. It will simply ask you some basic questions about your reduction/analysis and the text of the song, so I can make sure everyone is on the right track before Wednesday's class. (Do this as individuals.)
+
+The Ian Bostridge recording of the whole cycle can be found [here](http://open.spotify.com/user/kris.shaffer/playlist/1SaXv4tlZlW931nZ9a8q1o) (Spotify URI: spotify:user:kris.shaffer:playlist:1SaXv4tlZlW931nZ9a8q1o).
