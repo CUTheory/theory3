@@ -27,6 +27,17 @@ or simply:
 > **IHRTCUHC**  
 [sign or type name]
 
+You will be assessed on this assignment according to the mastery you demonstrate on the following conceptual areas:
+
+- Integrity/independence of melodic lines  
+- Treatment of imperfect and perfect consonances  
+- Treatment of weak-beat (e.g., passing and neighbor) dissonances  
+- Treatment of strong-beat (suspension) dissonances  
+- Performability  
+- Motion towards a goal
+
+Mastery of five of these concepts (or mastery of four with borderline performance of two) will constitute an A; mastery of four a B; three a C; one or two a D; and none an F. Your grade on this final attempt will be the main contributor to your two-part strict voice-leading grade.
+
 N.B.: You have all received feedback from our TA and/or myself on the species exercises and composed revisions based on that feedback. If you have still not demonstrated mastery over those species (and are, therefore, doing this assignment), you are *strongly encouraged* to seek in-person help from instructor or TA before submitting this. Schedule those meetings as early as you can to ensure that they can take place.
 
 Good luck! Remember that we are here to help you with this project.
