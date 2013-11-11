@@ -8,7 +8,7 @@ categories:
 
 Before 9am on ***Tuesday***, Nov. 12, please do the following:
 
-- Complete the thoroughbass reduction of "Die liebe Farbe" from [*Die schöne Müllerin*]({{ root_url }}/media/Schubert-DSMtext.pdf) begun in class on Monday. (You can do this with a group.)  
+- Complete the thoroughbass reduction of "Die liebe Farbe" from [*Die schöne Müllerin*]({{ root_url }}/media/Schubert-DSMscore.pdf) begun in class on Monday. (You can do this with a group.)  
 - Complete your *uninterpreted* functional bass analysis (no parentheses or brackets) and label all cadences. (You can do this with a group.)  
 - *Attempt* an interpreted analysis for the rest of the song. (You can do this with a group.)  
 - Read the [text and translation]({{ root_url }}/media/Schubert-DSMtext.pdf) of the song.
