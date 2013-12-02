@@ -8,4 +8,6 @@ categories:
 
 Before **8am on Tuesday, Dec. 3**, go to the "Dec. 3 'Mondnacht' assignment" file in the MUSC 2101 shared resources folder in Google Drive. Answer each question on your own or with a partner. (Be sure to provide your name with each response.)
 
+Before **class on Wednesday**, read through your classmates' responses on that document to prepare for class activities.
+
 Bring staff paper to class on Wednesday.
