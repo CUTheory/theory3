@@ -4,7 +4,7 @@
   <title><![CDATA[Music Theory III]]></title>
   <link href="http://CUTheory.github.com/theory3/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/theory3/"/>
-  <updated>2013-12-02T11:47:36-07:00</updated>
+  <updated>2013-12-03T13:09:09-07:00</updated>
   <id>http://CUTheory.github.com/theory3/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dec. 4 Assignment]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/12/dec-6-assignment/"/>
+    <updated>2013-12-03T12:52:00-07:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/12/dec-6-assignment</id>
+    <content type="html"><![CDATA[<p>By <strong>8am, Friday, Dec. 6,</strong> send me an email explaining your intended final project. If you will do an analysis, pick a piece (or pair of pieces to compare), and also indicate if you will present a paper, slideshow, video, performance, etc. If a composition project, pick a text and give me a <em>brief</em> decription of why you chose it.</p>
+
+<p>Also, pick a partner, and between the two of you decide which one will work on the Brahms setting of Mondnacht and which on Schumann. Then, <strong>for Monday&#8217;s class meeting,</strong> make a thoroughbass reduction of your song (bass and figures for each chord), and provide a functional-bass analysis below the bass line. There are tricky parts in both songs, particularly the Schumann (which balances out by being rather repetitive). If you run into trouble, feel free to consult with a classmate. If you are completely stuck in a passage, notate what you know, leave other elements blank, and move on. This is your first complete thoroughbass/functional-bass analysis of a song, so don&#8217;t underestimate how long may will take you—you almost certainly won&#8217;t be able to cram it all in to Sunday night. Also, this is your last whole-song harmonic analysis before your final project, so use it to guage the difficulty and time demands that your final project may impose on you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mondnacht recordings]]></title>
+    <link href="http://CUTheory.github.com/theory3/2013/12/mondnacht-recordings/"/>
+    <updated>2013-12-03T12:07:00-07:00</updated>
+    <id>http://CUTheory.github.com/theory3/2013/12/mondnacht-recordings</id>
+    <content type="html"><![CDATA[<p>Scores can be found on <a href="http://imslp.org">IMSLP</a> or in the library.</p>
+
+<iframe src="https://embed.spotify.com/?uri=spotify:user:kris.shaffer:playlist:7EJvdwnibFFccU6gqSoK5n" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+
+<p>(View playlist in <a href="http://open.spotify.com/user/kris.shaffer/playlist/7EJvdwnibFFccU6gqSoK5n">Spotify web player</a>, or search for <strong>spotify:user:kris.shaffer:playlist:7EJvdwnibFFccU6gqSoK5n</strong> in Spotify app.)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dec 3/4 assignment]]></title>
@@ -358,38 +383,6 @@
 <p>Two general rules of thumb come in to play here: <strong>S4 D5 T1</strong> at the end of a phrase is <em>always</em> the cadential progression, and prefer to analyze a tonic prolongation as long as makes musical sense.</p>
 
 <p>Don&#8217;t sweat this one too much. It&#8217;s all very abstract still, with no real music in front of you. I mainly wanted to get you thinking about this before we see real musical examples in the near future. It will make a lot more sense once you get more familiar with it and start connecting it to musical form and analysis, but only if you have some vague notion of the concepts first.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Species portfolio feedback]]></title>
-    <link href="http://CUTheory.github.com/theory3/2013/10/species-portfolio-feedback/"/>
-    <updated>2013-10-01T10:22:00-06:00</updated>
-    <id>http://CUTheory.github.com/theory3/2013/10/species-portfolio-feedback</id>
-    <content type="html"><![CDATA[<p>I have provided feedback to all fourth-species submissions in your Google Drive folders where you submitted them. Please review those notes and update your portfolio as necessary before Monday. Also, if you did not receive feedback for first species because of a file format issue, I have not provided you feedback on those, as well.</p>
-
-<p>Kellan should be getting you feedback on third species by Wednesday or Thursday.</p>
-
-<p>If you did not submit third- or fourth-species exercises yesterday, you will not receive any feedback on those species, even during office hours, before the final portfolio is due on Oct. 7.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting 10 assignment]]></title>
-    <link href="http://CUTheory.github.com/theory3/2013/09/meeting-10-assignment/"/>
-    <updated>2013-09-26T15:15:00-06:00</updated>
-    <id>http://CUTheory.github.com/theory3/2013/09/meeting-10-assignment</id>
-    <content type="html"><![CDATA[<p>For <em>Tuesday, Oct. 1, 8am</em>, do the following:</p>
-
-<ul>
-<li>Read the resources: <a href="http://kris.shaffermusic.com/musicianship/harmonicSyntax.html">Harmonic syntax</a> and <a href="http://kris.shaffermusic.com/musicianship/cadenceTypes.html">Classical cadence types</a>.</li>
-<li>Take the <a href="http://learningcatalytics.com">Learning Catalytics</a> quiz with session ID 396102.</li>
-</ul>
-
-
-<p>Bring a Learning Catalytics capable device to class on Wednesday for more group-based activity.</p>
-
-<p>Continue to work on your species counterpoint porfolios, which are due Monday, Oct. 7. Be sure to make revisions based on the feedback you receive and put everything in notation software before the deadline.</p>
 ]]></content>
   </entry>
   
